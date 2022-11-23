@@ -28,6 +28,6 @@ A little bit about me, despite my work:
 </br>
 
 #### Do you want to know more about me? You can talk with me here:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="blue" />](https://www.linkedin.com/in/jorgemalaquiasdev/)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png)" color="blue" />](https://www.linkedin.com/in/jorgemalaquiasdev/)
 
 
