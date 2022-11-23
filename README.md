@@ -16,7 +16,7 @@ A little bit about me, despite my work:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Jest" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" />
-
+<img align="left" alt="Cypress" width="26px" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/03/cypress.png?fit=364%2C364&ssl=1" />
 
 
 
