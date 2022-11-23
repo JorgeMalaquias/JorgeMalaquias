@@ -5,9 +5,6 @@ A little bit about me, despite my work:
 - I like to practice physical exercises 🏋🏽
 - I'm a cinephile 🎞
 - I like comedy 🤣
-#### Do you want to know more about me? You can talk with me here:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="blue" />](https://www.linkedin.com/in/jorgemalaquiasdev/)
-</br>
 
 #### Technologies I work with:
 
@@ -23,5 +20,7 @@ A little bit about me, despite my work:
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-
+#### Do you want to know more about me? You can talk with me here:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="blue" />](https://www.linkedin.com/in/jorgemalaquiasdev/)
+</br>
 
