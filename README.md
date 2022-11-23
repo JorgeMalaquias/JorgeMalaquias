@@ -6,8 +6,10 @@ A little bit about me, despite my work:
 - I'm a cinephile 🎞
 - I like comedy 🤣
 #### Do you want to know more about me? You can talk with me here:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jorgemalaquiasdev/)
-Technologies I work with:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="blue" />](https://www.linkedin.com/in/jorgemalaquiasdev/)
+
+
+####Technologies I work with:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -21,13 +23,5 @@ Technologies I work with:
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-/*
-Typescript
-Express Js
-MongoDB
-PostgreSQL
-Prisma
-Jest
-Cypress
-*/
+
 
