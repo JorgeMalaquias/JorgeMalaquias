@@ -10,7 +10,7 @@ A little bit about me, despite my work:
 - I like comedy 🤣
 
 #### Do you want to know more about me? You can talk with me here:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedIn)
 
 Technologies I work with:
 
