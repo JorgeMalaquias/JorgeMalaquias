@@ -28,7 +28,7 @@
 
 </br>
 
-#### Do you want to know more about me? You can talk with me through linkedIn:
+#### If you want to talk, you can contact me through linkedIn:
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" color="blue" />](https://www.linkedin.com/in/jorgemalaquiasdev/)
 
